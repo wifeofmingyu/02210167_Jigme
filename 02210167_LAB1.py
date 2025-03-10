@@ -51,8 +51,9 @@ class CustomList:
 
 if __name__ == "__main__":
     my_list = CustomList()
-    my_list.append(5)
+    my_list.append(30)
+    my_list.append(3)
     print(f"Element at index 0: {my_list.get(0)}")
     my_list.append(0)
-    print(f"Element at index 0: {my_list.get(0)}")
+    print(f"Element at index 1: {my_list.get(1)}")
     print(f"Current size of the list: {my_list.size()}")
