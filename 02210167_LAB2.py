@@ -7,7 +7,7 @@ class Node:
 class LinkedList:
     def __init__(self):
         self.head = None  # Head node of the list
-        self.tail = None  # Tail node (optional but recommended)
+        self.tail = None  # Tail node 
         self.size = 0  # Counter for number of elements
         print("Created new LinkedList")
         print(f"Current size: {self.size}")
