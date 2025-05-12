@@ -1,3 +1,7 @@
+#02210180
+# AVL implementation
+#Part1: implemented by Pema cheki
+
 class Node:
     def __init__(self, value):
         self.value = value
