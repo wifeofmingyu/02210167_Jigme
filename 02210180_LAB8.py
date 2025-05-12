@@ -1,4 +1,3 @@
-# 02210180_LAB9.py
 # AVL Tree Implementation - Part 1 by Pema cheki
 
 class AVLNode:
